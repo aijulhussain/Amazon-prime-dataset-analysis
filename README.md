@@ -1,6 +1,6 @@
 # Amazon-prime-dataset-analysis
 # Dataset link: https://www.kaggle.com/datasets/victorsoeiro/amazon-prime-tv-shows-and-movies?select=titles.csv
-# Here I try to find the some questions answers from the data set
+#  Here I try to find some questions and answers from the data set
   1.Geting the information about the particular element
   2.In which year highet no. of TY shows and movies were released? Show with bar Graph.
   3.How many movie and tv shows are in the dataset?
